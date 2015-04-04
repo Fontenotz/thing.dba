@@ -1,0 +1,10 @@
+ink rgb(rnd(255),rnd(225),rnd(225)),1
+for y=0 to 30 step 1
+	for x=0 to y step 1
+	print "_"
+	next x
+print "Matttttt"
+cls
+next y
+
+end
